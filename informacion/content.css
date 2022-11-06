@@ -1,0 +1,17 @@
+@charset "UTF-8";
+* { margin:0; padding:0; border:0; box-sizing: border-box; overflow: ;}
+
+body h1{
+	font-size: 30px; margin-left: 5pt;
+}
+body p{
+	font-size: 15pt; margin-left: 25pt;
+}
+body h3{
+	margin-left: 15pt;
+}
+img{
+	image-rendering:optimizeQuality;
+	display: block;
+	margin: auto;
+}
